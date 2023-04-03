@@ -3,20 +3,8 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Kavalski/IdeaProjects/WinterExample">
         <classes>
-            <class name="demoTest.CalculatorTest">
-                <methods>
-                    <include name="addTwoNumsTest"/>
-                    <include name="testSoftAssert"/>
-                    <include name="test123"/>
-                </methods>
-            </class>
-            <class name="demoTest.TestNGDemo">
-                <methods>
-                    <include name="createNewUserTest"/>
-                    <include name="loginTest"/>
-                    <include name="testLoginFun"/>
-                </methods>
-            </class>
+            <class name="demoTest.CalculatorTest"></class>
+            <class name="demoTest.TestNGDemo"></class>
         </classes>
     </test>
 </suite>
